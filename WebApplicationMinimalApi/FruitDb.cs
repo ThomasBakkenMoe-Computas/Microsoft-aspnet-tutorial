@@ -1,5 +1,4 @@
-﻿
-internal class FruitDb
+﻿internal class FruitDb
 {
     public required List<Fruit> Fruits { get; set; }
 
